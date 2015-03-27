@@ -2,6 +2,8 @@ Graylog *Docker* container
 ==================================
 This project creates a Docker container with full Graylog stack installed.
 
+PULLED PROJECT FROM: https://github.com/Graylog2/graylog2-images
+
 Requirements
 ------------
 You need a recent `docker` version installed, take a look [here](https://docs.docker.com/installation/) for instructions.
